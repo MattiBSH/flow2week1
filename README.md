@@ -1,8 +1,9 @@
 Har kørt i gennem og kodet alle de 5 videoer fra tirsdag og fået det til at virke.
 
 
-Har lavet alle de grønne undtal den sidste af fredags opgaven pga tidsmangel.
 
+Har lavet alle de grønne undtal den sidste af fredags opgaven pga tidsmangel.
+*Kan nu se noget er væk til fredags tingen ved ikke hvad jeg har lavet .-.*
 
 Onsdag og torsdag opgaverne er på https://github.com/MattiBSH/rest2 desværre (havde nogen problemer fordi jeg ikke lavet en folder uden på) 
 
