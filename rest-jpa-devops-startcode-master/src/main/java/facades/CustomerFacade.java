@@ -5,7 +5,7 @@
  */
 package facades;
 
-import entity.Customer;
+import entities.Customer;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
