@@ -5,7 +5,7 @@ Har kørt i gennem og kodet alle de 5 videoer fra tirsdag og fået det til at vi
 Havde lavet alle de grønne undtal den sidste af fredags opgaven pga tidsmangel.
 
 
-*Kan nu se noget er væk til fredags opgaven ved ikke hvad jeg har lavet .-.*
+*Kan nu se noget er væk til fredags opgaven ved ikke hvad jeg har lavet .-. den var valgfri så det nok ikke så vigtig jeg snakker om den, men det noget lort, som jeg kigger på nu*
 
 Onsdag og torsdag opgaverne er på https://github.com/MattiBSH/rest2 desværre (havde nogen problemer fordi jeg ikke lavet en folder uden på) 
 
